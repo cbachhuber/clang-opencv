@@ -6,7 +6,7 @@ A docker container building on [cbachhuber/clang](https://github.com/cbachhuber/
 
 Tags and corresponding docker files:
 
-- `1`: [/1.Dockerfile](https://github.com/cbachhuber/clang/blob/master/1.Dockerfile/Dockerfile) contains
+- `1`: [/1.Dockerfile](https://github.com/cbachhuber/clang-opencv/blob/master/1.Dockerfile/Dockerfile) contains
   - clang-11
   - clang-tidy-11
   - clang-format-11
@@ -15,7 +15,7 @@ Tags and corresponding docker files:
   - libc++-11-dev
   - llvm-tools-11
   - OpenCV 4.2.0
-- `latest`: [/1.Dockerfile](https://github.com/cbachhuber/clang/blob/master/1.Dockerfile/Dockerfile[) contains
+- `latest`: [/1.Dockerfile](https://github.com/cbachhuber/clang-opencv/blob/master/1.Dockerfile/Dockerfile[) contains
   - clang-11
   - clang-tidy-11
   - clang-format-11
