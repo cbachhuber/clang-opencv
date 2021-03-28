@@ -2,7 +2,7 @@
 
 [![docker](https://img.shields.io/docker/pulls/cbachhuber/clang-opencv.svg)](https://hub.docker.com/r/cbachhuber/clang-opencv/)
 
-A docker container building on [cbachhuber/clang](https://github.com/cbachhuber/clang), adding OpenCV.
+A docker container building on [cbachhuber/tmiv-clang](https://github.com/cbachhuber/tmiv-clang), adding OpenCV.
 
 Tags and corresponding docker files:
 
